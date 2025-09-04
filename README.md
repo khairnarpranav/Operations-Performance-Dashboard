@@ -42,4 +42,4 @@ Dataset used: https://www.kaggle.com/datasets/shashwatwork/dataco-smart-supply-c
 ---
 
 ## 📌 Author
-Developed by **Dityaraj Singh**and **Pranav Khairnar**
+Developed by **Dityaraj Singh** and **Pranav Khairnar**
